@@ -1,11 +1,10 @@
-#+TITLE: docker-cihai-cli
-#+AUTHOR: karronoli
+# docker-cihai-cli
 
-https://pypi.org/project/cihai-cli/ for https://hub.docker.com/repository/docker/karronoli/cihai-cli
+https://pypi.org/project/cihai-cli/ with latest [Unicode Han Database](https://www.unicode.org/reports/tr38/) for https://hub.docker.com/repository/docker/karronoli/cihai-cli
 
-* Example
+## Example
 
-#+BEGIN_EXAMPLE
+```
 $ docker run --rm karronoli/cihai-cli:latest cihai info -a 赵
 char: 赵
 kCangjie: GOK
@@ -21,4 +20,4 @@ kTraditionalVariant: U+8D99
 kXHC1983: 1460.050:zhào
 ucn: U+8D75
 $
-#+END_EXAMPLE
+```
