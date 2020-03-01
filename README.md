@@ -1,6 +1,6 @@
 # docker-cihai-cli
 
-https://pypi.org/project/cihai-cli/ with latest [Unicode Han Database](https://www.unicode.org/reports/tr38/) for https://hub.docker.com/repository/docker/karronoli/cihai-cli
+https://pypi.org/project/cihai-cli/ with latest [Unicode Han Database](https://www.unicode.org/reports/tr38/) for https://hub.docker.com/r/karronoli/cihai-cli
 
 ## Example
 
