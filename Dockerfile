@@ -1,6 +1,6 @@
 FROM python:3
 
-RUN pip3 install --quiet cihai-cli==0.5.0
+RUN pip3 install --quiet cihai-cli==0.8.1
 RUN cihai --version
 
 # Download Unihan Database
